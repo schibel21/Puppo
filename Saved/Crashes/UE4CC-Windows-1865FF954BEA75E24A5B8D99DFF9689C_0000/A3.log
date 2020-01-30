@@ -1,0 +1,1309 @@
+﻿Log file open, 01/26/20 23:40:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: A3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067135
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.01.27-07.40.05:490][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.27-07.40.05:491][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.27-07.40.05:492][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:492][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-07.40.05:495][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.27-07.40.05:496][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.27-07.40.05:496][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-07.40.05:496][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.27-07.40.05:499][  0]LogHAL: Display: Platform has ~ 16 GB [17022275584 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.27-07.40.05:499][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.27-07.40.05:499][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-07.40.05:499][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.01.27-07.40.05:500][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.27-07.40.05:500][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.27-07.40.05:501][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.27-07.40.05:501][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.40.05:501][  0]LogInit: Computer: LAPTOP-OS5U2E3I
+[2020.01.27-07.40.05:501][  0]LogInit: User: pele
+[2020.01.27-07.40.05:501][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.01.27-07.40.05:501][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.27-07.40.05:501][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.01.27-07.40.05:501][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.27-07.40.05:501][  0]LogMemory: Process Physical Memory: 105.99 MB used, 105.99 MB peak
+[2020.01.27-07.40.05:501][  0]LogMemory: Process Virtual Memory: 101.56 MB used, 101.56 MB peak
+[2020.01.27-07.40.05:501][  0]LogMemory: Physical Memory: 4503.04 MB used,  11730.66 MB free, 16233.71 MB total
+[2020.01.27-07.40.05:501][  0]LogMemory: Virtual Memory: 5173.74 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.01.27-07.40.05:540][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.27-07.40.05:570][  0]LogInit: Using OS detected language (en-US).
+[2020.01.27-07.40.05:571][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.27-07.40.05:571][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.27-07.40.05:706][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.27-07.40.05:731][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.27-07.40.05:731][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.27-07.40.05:868][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-07.40.05:868][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.01.27-07.40.05:868][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.01.27-07.40.05:868][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.27-07.40.05:951][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2020.01.27-07.40.05:951][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.01.27-07.40.05:967][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.01.27-07.40.05:967][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.27-07.40.05:969][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.27-07.40.05:969][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.27-07.40.05:969][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.27-07.40.06:004][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.27-07.40.06:004][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2020.01.27-07.40.06:004][  0]LogWindows: EnumDisplayDevices:
+[2020.01.27-07.40.06:004][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.01.27-07.40.06:004][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.27-07.40.06:004][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.01.27-07.40.06:004][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.01.27-07.40.06:005][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.01.27-07.40.06:005][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.01.27-07.40.06:005][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2020.01.27-07.40.06:005][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.01.27-07.40.06:005][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2020.01.27-07.40.06:005][  0]LogD3D11RHI:   Driver Version: 419.71 (internal:25.21.14.1971, unified:419.71)
+[2020.01.27-07.40.06:005][  0]LogD3D11RHI:      Driver Date: 3-18-2019
+[2020.01.27-07.40.06:005][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2020.01.27-07.40.06:050][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.01.27-07.40.06:050][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.27-07.40.06:067][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.01.27-07.40.06:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.01.27-07.40.06:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.01.27-07.40.06:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.01.27-07.40.06:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.01.27-07.40.06:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.27-07.40.06:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.01.27-07.40.06:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.01.27-07.40.06:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.01.27-07.40.06:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.01.27-07.40.06:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.01.27-07.40.06:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.01.27-07.40.06:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.01.27-07.40.06:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.01.27-07.40.06:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.01.27-07.40.06:444][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.27-07.40.06:451][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.01.27-07.40.06:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.01.27-07.40.06:465][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.01.27-07.40.06:465][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.27-07.40.06:472][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.27-07.40.06:511][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/pele-/Documents/Unreal Projects/A3/Intermediate/Shaders/WorkingDirectory/61116/).
+[2020.01.27-07.40.06:511][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pele-/AppData/Local/Temp/UnrealShaderWorkingDir/238B275240193CE847FE62A3D863AD5C/'.
+[2020.01.27-07.40.06:511][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.27-07.40.06:511][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.27-07.40.06:511][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.27-07.40.07:097][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/pele-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pele-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pele-/Documents/Unreal Projects/A3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pele-/Documents/Unreal Projects/A3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-07.40.07:141][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.27-07.40.07:149][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.27-07.40.07:150][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-07.40.07:150][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.27-07.40.07:151][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pele-/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.27-07.40.07:151][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.27-07.40.07:151][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.27-07.40.07:171][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.27-07.40.07:173][  0]LogSlate: Using FreeType 2.10.0
+[2020.01.27-07.40.07:174][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.27-07.40.07:215][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2020.01.27-07.40.07:455][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-07.40.07:588][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.27-07.40.07:588][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.27-07.40.07:589][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.27-07.40.07:589][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.27-07.40.07:589][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.27-07.40.07:597][  0]LogNetVersion: A3 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1220791822)
+[2020.01.27-07.40.08:448][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.023612 seconds
+[2020.01.27-07.40.08:453][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.01.27-07.40.08:453][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.01.27-07.40.08:453][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.27-07.40.08:819][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.27-07.40.08:823][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.27-07.40.08:886][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.08:886][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.08:888][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.08:891][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.08:893][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.08:903][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.27-07.40.08:904][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.27-07.40.09:006][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.27-07.40.09:022][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.27-07.40.09:022][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.01.27-07.40.09:134][  0]LogOcInput: OculusInput pre-init called
+[2020.01.27-07.40.09:144][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.27-07.40.09:145][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.27-07.40.09:213][  0]LogEngine: Initializing Engine...
+[2020.01.27-07.40.09:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-07.40.09:214][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.27-07.40.09:483][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.27-07.40.09:490][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-07.40.09:496][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-07.40.09:496][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-07.40.09:497][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-07.40.09:497][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: Channel Order:
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 5: BackRight
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.01.27-07.40.09:924][  0]LogAudioMixer: Display: 7: SideRight
+[2020.01.27-07.40.10:249][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.01.27-07.40.10:255][  0]LogInit: FAudioDevice initialized.
+[2020.01.27-07.40.10:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.27-07.40.10:300][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/pele-/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.01.27-07.40.10:300][  0]LogInit: Texture streaming: Enabled
+[2020.01.27-07.40.10:313][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.27-07.40.10:313][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.27-07.40.10:317][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.27-07.40.10:353][  0]LogInit: Transaction tracking system initialized
+[2020.01.27-07.40.10:367][  0]BlueprintLog: New page: Editor Load
+[2020.01.27-07.40.10:407][  0]LocalizationService: Localization service is disabled
+[2020.01.27-07.40.10:463][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.27-07.40.10:463][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.01.27-07.40.10:648][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pele-/Documents/Unreal Projects/A3/Content/' took 0.01s
+[2020.01.27-07.40.10:648][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.27-07.40.10:648][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.27-07.40.11:198][  0]SourceControl: Source control is disabled
+[2020.01.27-07.40.11:198][  0]Cmd: MAP LOAD FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.27-07.40.11:199][  0]LightingResults: New page: Lighting Build
+[2020.01.27-07.40.11:199][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.40.11:199][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.40.11:199][  0]MapCheck: New page: Map Check
+[2020.01.27-07.40.11:199][  0]LightingResults: New page: Lighting Build
+[2020.01.27-07.40.11:227][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.01.27-07.40.11:245][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:245][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:245][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:245][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:246][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:246][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:246][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:246][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:246][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:247][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:247][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:247][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:247][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:247][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:248][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:248][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:248][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:248][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:248][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:249][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:250][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:251][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:252][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:252][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:252][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:252][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:253][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:354][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:354][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__9__Sprite.Dead__9__Sprite Referenced by Dead_End
+[2020.01.27-07.40.11:354][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:354][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__9__Sprite.Dead__9__Sprite Referenced by Dead_End
+[2020.01.27-07.40.11:354][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__1__Sprite.Dead__1__Sprite Referenced by Dead
+[2020.01.27-07.40.11:355][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__1__Sprite.Dead__1__Sprite Referenced by Dead
+[2020.01.27-07.40.11:355][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__2__Sprite.Dead__2__Sprite Referenced by Dead
+[2020.01.27-07.40.11:355][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__2__Sprite.Dead__2__Sprite Referenced by Dead
+[2020.01.27-07.40.11:355][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__3__Sprite.Dead__3__Sprite Referenced by Dead
+[2020.01.27-07.40.11:355][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite': Can't find file.
+[2020.01.27-07.40.11:355][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__3__Sprite.Dead__3__Sprite Referenced by Dead
+[2020.01.27-07.40.11:356][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:356][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__4__Sprite.Dead__4__Sprite Referenced by Dead
+[2020.01.27-07.40.11:356][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite': Can't find file.
+[2020.01.27-07.40.11:356][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__4__Sprite.Dead__4__Sprite Referenced by Dead
+[2020.01.27-07.40.11:356][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:356][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__5__Sprite.Dead__5__Sprite Referenced by Dead
+[2020.01.27-07.40.11:356][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite': Can't find file.
+[2020.01.27-07.40.11:356][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__5__Sprite.Dead__5__Sprite Referenced by Dead
+[2020.01.27-07.40.11:356][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:356][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__6__Sprite.Dead__6__Sprite Referenced by Dead
+[2020.01.27-07.40.11:357][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite': Can't find file.
+[2020.01.27-07.40.11:357][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__6__Sprite.Dead__6__Sprite Referenced by Dead
+[2020.01.27-07.40.11:357][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:357][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__7__Sprite.Dead__7__Sprite Referenced by Dead
+[2020.01.27-07.40.11:357][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite': Can't find file.
+[2020.01.27-07.40.11:357][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__7__Sprite.Dead__7__Sprite Referenced by Dead
+[2020.01.27-07.40.11:357][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:357][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__8__Sprite.Dead__8__Sprite Referenced by Dead
+[2020.01.27-07.40.11:357][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite': Can't find file.
+[2020.01.27-07.40.11:357][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__8__Sprite.Dead__8__Sprite Referenced by Dead
+[2020.01.27-07.40.11:358][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:358][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__9__Sprite.Dead__9__Sprite Referenced by Dead
+[2020.01.27-07.40.11:358][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite': Can't find file.
+[2020.01.27-07.40.11:358][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__9__Sprite.Dead__9__Sprite Referenced by Dead
+[2020.01.27-07.40.11:358][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:358][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__10__Sprite.Dead__10__Sprite Referenced by Dead
+[2020.01.27-07.40.11:358][  0]LogLinker: Warning: While loading '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset' failed to load '/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite': Can't find file.
+[2020.01.27-07.40.11:358][  0]LoadErrors: Failed to load /Game/Character/Animations/Sprites/Dead/Dead__10__Sprite.Dead__10__Sprite Referenced by Dead
+[2020.01.27-07.40.11:472][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.27-07.40.11:478][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.27-07.40.11:512][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.27-07.40.11:517][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.27-07.40.11:517][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2020.01.27-07.40.11:517][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.319
+[2020.01.27-07.40.11:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.40.11:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.40.11:677][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.40.11:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.40.11:689][  0]LogCollectionManager: Loaded 0 collections in 0.001844 seconds
+[2020.01.27-07.40.11:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pele-/Documents/Unreal Projects/A3/Saved/Collections/' took 0.00s
+[2020.01.27-07.40.11:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pele-/Documents/Unreal Projects/A3/Content/Developers/pele/Collections/' took 0.00s
+[2020.01.27-07.40.11:701][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pele-/Documents/Unreal Projects/A3/Content/Collections/' took 0.00s
+[2020.01.27-07.40.11:701][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3015 classes and 717 folders.
+[2020.01.27-07.40.11:704][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.01.27-07.40.11:755][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2020.01.27-07.40.11:759][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0013 seconds. Added 2 classes and 3 folders.
+[2020.01.27-07.40.11:827][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.27-07.40.11:829][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.27-07.40.11:832][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.27-07.40.11:888][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-07.40.11:950][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2020.01.27-07.40.11:950][  0]LogLoad: (Engine Initialization) Total time: 7.91 seconds
+[2020.01.27-07.40.11:950][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.27-07.40.11:990][  0]LogAssetRegistry: Asset discovery search completed in 4.7755 seconds
+[2020.01.27-07.40.11:993][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.01.27-07.40.11:995][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.27-07.40.12:142][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-07.40.12:976][ 96]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-07.44.02:359][537]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-07.44.02:363][537]LogSlate: Window 'Message Log' being destroyed
+[2020.01.27-07.44.04:173][748]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2020.01.27-07.44.12:444][698]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.01.27-07.44.18:453][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.01.27-07.44.18:553][342]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerExampleMap34666B2E49E8AD783FD5D399AF16E4F8.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.01.27-07.44.18:580][342]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerExampleMap_BuiltDaC4C86D5D484819AB86E5F0B36442E80F.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.01.27-07.44.18:595][342]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.27-07.44.18:595][342]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.01.27-07.44.18:595][342]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.01.27-07.44.25:928][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.01.27-07.44.26:023][142]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerExampleMapBB3B5CE84BBDBF1F59D964BEF8E0C109.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.01.27-07.44.26:050][142]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerExampleMap_BuiltDa9AFD9FF74AF997C878B9D2ADDD66C728.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.01.27-07.44.26:065][142]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.27-07.44.26:065][142]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.01.27-07.44.26:065][142]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.01.27-07.44.27:504][306]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-07.44.27:512][306]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.27:512][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-07.44.27:512][306]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2020, 3:44:27 PM)
+[2020.01.27-07.44.27:513][306]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.01.27-07.44.27:514][306]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.01.27-07.44.27:514][306]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.44.27:517][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002638s)
+[2020.01.27-07.44.27:518][306]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.27-07.44.27:518][306]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2020.01.27-07.44.27:518][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003730s)
+[2020.01.27-07.44.27:546][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-07.44.27:546][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-07.44.27:546][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-07.44.27:547][306]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-07.44.27:547][306]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: Channel Order:
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 4: BackLeft
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 5: BackRight
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 6: SideLeft
+[2020.01.27-07.44.27:552][306]LogAudioMixer: Display: 7: SideRight
+[2020.01.27-07.44.27:645][306]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.01.27-07.44.27:647][306]LogInit: FAudioDevice initialized.
+[2020.01.27-07.44.27:658][306]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.27-07.44.27:660][306]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.26-23.44.27
+[2020.01.27-07.44.27:660][306]LogWorld: Bringing up level for play took: 0.000870
+[2020.01.27-07.44.27:660][306]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.01.27-07.44.27:664][306]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 20 classes and 0 folders.
+[2020.01.27-07.44.27:665][306]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.278
+[2020.01.27-07.44.27:665][306]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.33:500][  3]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.33:500][  3]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.33:500][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.33:501][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.44.33:501][  3]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.44.33:501][  3]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.33:501][  3]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.44.33:501][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.44.33:510][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-07.44.33:510][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.33:512][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.44.33:539][  3]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.33:543][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.44.33:546][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.01.27-07.44.33:601][  9]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.01.27-07.44.38:767][606]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-07.44.38:774][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.38:774][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-07.44.38:774][606]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2020, 3:44:38 PM)
+[2020.01.27-07.44.38:775][606]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.44.38:777][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002436s)
+[2020.01.27-07.44.38:778][606]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.27-07.44.38:778][606]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.01.27-07.44.38:778][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003278s)
+[2020.01.27-07.44.38:804][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-07.44.38:804][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-07.44.38:804][606]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-07.44.38:804][606]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: Channel Order:
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 4: BackLeft
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 5: BackRight
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 6: SideLeft
+[2020.01.27-07.44.38:809][606]LogAudioMixer: Display: 7: SideRight
+[2020.01.27-07.44.38:898][606]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.01.27-07.44.38:900][606]LogInit: FAudioDevice initialized.
+[2020.01.27-07.44.38:905][606]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.27-07.44.38:907][606]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.26-23.44.38
+[2020.01.27-07.44.38:907][606]LogWorld: Bringing up level for play took: 0.000843
+[2020.01.27-07.44.38:907][606]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.01.27-07.44.38:909][606]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.966
+[2020.01.27-07.44.38:909][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.46:127][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.46:127][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.46:127][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.46:127][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.44.46:128][472]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.44.46:128][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.46:128][472]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.44.46:128][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.44.46:131][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-07.44.46:131][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.44.46:134][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.44.46:160][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.44.46:164][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.44.46:166][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.01.27-07.44.46:230][479]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.01.27-07.44.52:541][215]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.44.52:746][215]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 121 classes and 0 folders.
+[2020.01.27-07.44.53:432][215]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.27-07.44.53:560][216]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.27-07.45.19:642][923]LogRenderer: Reallocating scene render targets to support 964x536 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-07.47.15:242][369]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.01.27-07.47.15:467][369]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.01.27-07.47.17:799][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.27-07.47.17:844][570]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerCharacterA8E8CFFB41A4881E861F82BD4CC88C9F.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.27-07.47.17:859][570]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.01.27-07.47.17:859][570]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.48.33:959][310]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.01.27-07.48.33:974][310]LogBlueprint: Error: [Compiler 2DSideScrollerCharacter] The type of  Object  is undetermined.  Connect something to  Cast To CapsuleComponent  to imply a specific type.
+[2020.01.27-07.48.33:974][310]LogBlueprint: Error: [Compiler 2DSideScrollerCharacter] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2020.01.27-07.48.34:146][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.01.27-07.51.13:855][985]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.01.27-07.51.14:052][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.01.27-07.51.14:994][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.27-07.51.15:039][ 60]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerCharacterC6FE32194611689B17F455B6F540EB97.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.27-07.51.15:052][ 60]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.01.27-07.51.15:052][ 60]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.51.15:842][141]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-07.51.15:850][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.15:850][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-07.51.15:850][141]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2020, 3:51:15 PM)
+[2020.01.27-07.51.15:850][141]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.51.15:853][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002473s)
+[2020.01.27-07.51.15:853][141]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.27-07.51.15:853][141]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2020.01.27-07.51.15:853][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003332s)
+[2020.01.27-07.51.15:882][141]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-07.51.15:882][141]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-07.51.15:883][141]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-07.51.15:883][141]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-07.51.15:883][141]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-07.51.15:883][141]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: Channel Order:
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 4: BackLeft
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 5: BackRight
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 6: SideLeft
+[2020.01.27-07.51.15:888][141]LogAudioMixer: Display: 7: SideRight
+[2020.01.27-07.51.15:980][141]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.01.27-07.51.15:982][141]LogInit: FAudioDevice initialized.
+[2020.01.27-07.51.15:993][141]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.27-07.51.15:995][141]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.26-23.51.15
+[2020.01.27-07.51.15:995][141]LogWorld: Bringing up level for play took: 0.001394
+[2020.01.27-07.51.15:995][141]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.01.27-07.51.15:997][141]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.055
+[2020.01.27-07.51.15:997][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.17:715][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.17:715][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.17:715][298]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.17:715][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.51.17:715][298]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.51.17:715][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.17:715][298]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.51.17:716][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.51.17:738][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-07.51.17:738][298]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.17:741][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.51.17:773][298]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.17:778][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.51.17:780][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.01.27-07.51.17:856][299]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.01.27-07.51.18:737][395]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.27-07.51.18:746][395]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.27-07.51.18:746][395]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.51.18:746][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.51.20:870][629]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-07.51.20:878][629]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.20:878][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-07.51.20:878][629]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2020, 3:51:20 PM)
+[2020.01.27-07.51.20:878][629]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.51.20:880][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002387s)
+[2020.01.27-07.51.20:881][629]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.01.27-07.51.20:881][629]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2020.01.27-07.51.20:881][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003200s)
+[2020.01.27-07.51.20:910][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.01.27-07.51.20:911][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.01.27-07.51.20:911][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.01.27-07.51.20:912][629]LogAudio: Display: Using built-in audio occlusion.
+[2020.01.27-07.51.20:912][629]LogAudioMixer: Display: Initializing audio mixer.
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Is Default: Yes
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Sample Rate: 48000
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Channel Count Used: 8
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Device Channel Count: 8
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: Channel Order:
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 0: FrontLeft
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 1: FrontRight
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 2: FrontCenter
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 3: LowFrequency
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 4: BackLeft
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 5: BackRight
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 6: SideLeft
+[2020.01.27-07.51.20:917][629]LogAudioMixer: Display: 7: SideRight
+[2020.01.27-07.51.21:007][629]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.01.27-07.51.21:008][629]LogInit: FAudioDevice initialized.
+[2020.01.27-07.51.21:016][629]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.01.27-07.51.21:018][629]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.01.26-23.51.21
+[2020.01.27-07.51.21:018][629]LogWorld: Bringing up level for play took: 0.000834
+[2020.01.27-07.51.21:018][629]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.01.27-07.51.21:020][629]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.078
+[2020.01.27-07.51.21:020][629]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.31:268][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.31:268][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.31:268][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.31:268][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.51.31:268][857]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.01.27-07.51.31:268][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.31:269][857]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.51.31:269][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.51.31:278][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-07.51.31:279][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.01.27-07.51.31:282][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.51.31:309][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.27-07.51.31:313][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.51.31:316][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.01.27-07.51.31:373][863]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.27-07.51.32:867][ 34]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.52.36:604][243]BlueprintLog: New page: Compile 2DSideScrollerCharacter
+[2020.01.27-07.52.36:794][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.01.27-07.52.37:307][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.27-07.52.37:351][277]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerCharacter4F3688FE4045C3C1B6CC9FA3CC05EED5.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.27-07.52.37:364][277]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.01.27-07.52.37:365][277]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.52.38:259][358]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.27-07.52.38:266][358]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.01.27-07.52.38:273][358]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.52.38:273][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.52.48:588][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.01.27-07.52.50:540][565]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-07.52.54:614][ 16]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Flipbooks/Dead.Dead
+[2020.01.27-07.52.54:795][ 16]LogRenderer: Reallocating scene render targets to support 1524x716 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-07.52.58:430][438]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.52.58:438][438]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.52.58:445][438]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.52.58:445][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.53.28:968][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (2).png)
+[2020.01.27-07.53.28:973][335]LogTexture: Display: Building textures: Dead__2_ (BGRA8, 580X510)
+[2020.01.27-07.53.28:981][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (3).png)
+[2020.01.27-07.53.28:986][335]LogTexture: Display: Building textures: Dead__3_ (BGRA8, 580X510)
+[2020.01.27-07.53.28:993][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (4).png)
+[2020.01.27-07.53.28:998][335]LogTexture: Display: Building textures: Dead__4_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:004][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (5).png)
+[2020.01.27-07.53.29:009][335]LogTexture: Display: Building textures: Dead__5_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:016][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (6).png)
+[2020.01.27-07.53.29:020][335]LogTexture: Display: Building textures: Dead__6_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:027][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (7).png)
+[2020.01.27-07.53.29:031][335]LogTexture: Display: Building textures: Dead__7_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:037][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (8).png)
+[2020.01.27-07.53.29:042][335]LogTexture: Display: Building textures: Dead__8_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:048][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (9).png)
+[2020.01.27-07.53.29:053][335]LogTexture: Display: Building textures: Dead__9_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:059][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (10).png)
+[2020.01.27-07.53.29:063][335]LogTexture: Display: Building textures: Dead__10_ (BGRA8, 580X510)
+[2020.01.27-07.53.29:068][335]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pele-\Documents\Unreal Projects\A3\Source\catndog\png\dog\Dead (1).png)
+[2020.01.27-07.53.29:073][335]LogTexture: Display: Building textures: Dead__1_ (BGRA8, 580X510)
+[2020.01.27-07.53.36:668][871]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.01.27-07.53.43:125][566]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(764)].
+[2020.01.27-07.53.49:688][334]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Sprites/Dead/Dead.Dead
+[2020.01.27-07.53.52:094][596]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.53.52:103][596]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.53.52:103][596]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.53.52:103][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.54.00:839][597]LogSlate: Window 'Failed Renames' being destroyed
+[2020.01.27-07.54.13:219][958]LogSlate: Window 'Failed Renames' being destroyed
+[2020.01.27-07.54.19:055][650]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Flipbooks/Dead.Dead
+[2020.01.27-07.54.31:111][ 14]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.54.31:119][ 14]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.54.31:127][ 14]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.54.31:127][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.54.38:081][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.01.27-07.54.51:211][832]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-07.54.57:547][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.01.27-07.55.05:217][443]LogSlate: Window 'Replace References?' being destroyed
+[2020.01.27-07.55.05:222][443]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-07.55.05:855][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.01.27-07.55.08:697][443]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-07.55.08:734][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.27-07.55.08:778][443]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerCharacterBB139228409DF0CD8322768A9D231025.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.27-07.55.08:779][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Animations/Flipbooks/Dead" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset" SILENT=true
+[2020.01.27-07.55.08:790][443]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/DeadBD9BD5F8459A0BC090530990A892D2A6.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead.uasset'
+[2020.01.27-07.55.08:814][443]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.27-07.55.08:814][443]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.55.08:814][443]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Flipbooks/Dead.Dead
+[2020.01.27-07.55.11:874][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.01.27-07.55.12:031][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerExampleMap_Auto1C23E571640FB9DB2EEBD9B9AE05032D3.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2020.01.27-07.55.12:032][793]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.182
+[2020.01.27-07.55.12:032][793]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.182
+[2020.01.27-07.55.12:032][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__2_] ([1] browsable assets)...
+[2020.01.27-07.55.12:035][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__2_.Dead__2_]
+[2020.01.27-07.55.12:035][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__2_]
+[2020.01.27-07.55.12:041][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__2__Auto1E3734CA3412275D02DD31C9CCB23D56A.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__2__Auto1.uasset'
+[2020.01.27-07.55.12:042][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__3_] ([1] browsable assets)...
+[2020.01.27-07.55.12:044][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__3_.Dead__3_]
+[2020.01.27-07.55.12:044][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__3_]
+[2020.01.27-07.55.12:049][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__3__Auto1D36F198042702217CB040FAA373E6137.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__3__Auto1.uasset'
+[2020.01.27-07.55.12:050][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__4_] ([1] browsable assets)...
+[2020.01.27-07.55.12:052][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__4_.Dead__4_]
+[2020.01.27-07.55.12:052][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__4_]
+[2020.01.27-07.55.12:056][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__4__Auto12DF6C11C4258EC52E4871C92114B0B4D.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__4__Auto1.uasset'
+[2020.01.27-07.55.12:058][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__5_] ([1] browsable assets)...
+[2020.01.27-07.55.12:060][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__5_.Dead__5_]
+[2020.01.27-07.55.12:060][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__5_]
+[2020.01.27-07.55.12:064][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__5__Auto16C53BA104F9CF203B08C228180340F6F.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__5__Auto1.uasset'
+[2020.01.27-07.55.12:065][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__6_] ([1] browsable assets)...
+[2020.01.27-07.55.12:067][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__6_.Dead__6_]
+[2020.01.27-07.55.12:067][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__6_]
+[2020.01.27-07.55.12:072][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__6__Auto103A965354AE2D57A169C4F8132F26EFA.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__6__Auto1.uasset'
+[2020.01.27-07.55.12:072][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__7_] ([1] browsable assets)...
+[2020.01.27-07.55.12:075][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__7_.Dead__7_]
+[2020.01.27-07.55.12:075][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__7_]
+[2020.01.27-07.55.12:079][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__7__Auto1E11B26EA4C5360FA28B65C8CF286BCD9.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__7__Auto1.uasset'
+[2020.01.27-07.55.12:080][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__8_] ([1] browsable assets)...
+[2020.01.27-07.55.12:082][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__8_.Dead__8_]
+[2020.01.27-07.55.12:082][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__8_]
+[2020.01.27-07.55.12:087][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__8__Auto1742291EE49CC8CDAA6D5B9B2614F5FD6.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__8__Auto1.uasset'
+[2020.01.27-07.55.12:087][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__9_] ([1] browsable assets)...
+[2020.01.27-07.55.12:090][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__9_.Dead__9_]
+[2020.01.27-07.55.12:090][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__9_]
+[2020.01.27-07.55.12:094][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__9__Auto12C67F0B94569627718819E9EBF42FDDC.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__9__Auto1.uasset'
+[2020.01.27-07.55.12:095][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__10_] ([1] browsable assets)...
+[2020.01.27-07.55.12:097][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__10_.Dead__10_]
+[2020.01.27-07.55.12:097][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__10_]
+[2020.01.27-07.55.12:101][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__10__Auto1F7A5A320419CF870D7E12589B45D7B3A.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__10__Auto1.uasset'
+[2020.01.27-07.55.12:102][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__1_] ([1] browsable assets)...
+[2020.01.27-07.55.12:104][793]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character/Animations/Sprites/Dead/Dead__1_.Dead__1_]
+[2020.01.27-07.55.12:104][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__1_]
+[2020.01.27-07.55.12:108][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__1__Auto13B4F1B7D4559B35C86E04A8F005B582A.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__1__Auto1.uasset'
+[2020.01.27-07.55.12:108][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:113][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__10__Sprite.Dead__10__Sprite]
+[2020.01.27-07.55.12:113][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite]
+[2020.01.27-07.55.12:119][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__10__Sprite_Auto181F2191A4E66A4FB115D828E7AA93118.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__10__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:120][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:124][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__1__Sprite.Dead__1__Sprite]
+[2020.01.27-07.55.12:125][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite]
+[2020.01.27-07.55.12:130][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__1__Sprite_Auto1D5A044E64419B792505449AA67F4E811.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__1__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:131][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:136][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__2__Sprite.Dead__2__Sprite]
+[2020.01.27-07.55.12:136][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite]
+[2020.01.27-07.55.12:141][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__2__Sprite_Auto1A3CC8D91451B98BB2D56479D684C524A.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__2__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:142][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:147][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__3__Sprite.Dead__3__Sprite]
+[2020.01.27-07.55.12:147][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite]
+[2020.01.27-07.55.12:152][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__3__Sprite_Auto11307525246B7EA9F73293F9C75D98717.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__3__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:153][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:158][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__4__Sprite.Dead__4__Sprite]
+[2020.01.27-07.55.12:158][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite]
+[2020.01.27-07.55.12:164][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__4__Sprite_Auto1FF7DF7DB40DBA47F6E163E8B5796EC01.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__4__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:165][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:169][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__5__Sprite.Dead__5__Sprite]
+[2020.01.27-07.55.12:169][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite]
+[2020.01.27-07.55.12:175][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__5__Sprite_Auto199ABBEFE42CA924231AF46898B1BF45D.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__5__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:176][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:180][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__6__Sprite.Dead__6__Sprite]
+[2020.01.27-07.55.12:180][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite]
+[2020.01.27-07.55.12:186][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__6__Sprite_Auto11E07F10F4501FE5E21DD90ABECE57F06.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__6__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:187][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:191][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__7__Sprite.Dead__7__Sprite]
+[2020.01.27-07.55.12:191][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite]
+[2020.01.27-07.55.12:197][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__7__Sprite_Auto1768640A7402F6101A2DFDC8C200A5828.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__7__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:198][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:202][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__8__Sprite.Dead__8__Sprite]
+[2020.01.27-07.55.12:202][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite]
+[2020.01.27-07.55.12:208][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__8__Sprite_Auto140342BEF420D3ED5A9342B967CDD888E.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__8__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:209][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite] ([1] browsable assets)...
+[2020.01.27-07.55.12:214][793]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Character/Animations/Sprites/Dead/Dead__9__Sprite.Dead__9__Sprite]
+[2020.01.27-07.55.12:214][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite]
+[2020.01.27-07.55.12:219][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead__9__Sprite_Auto1A7DA219C4C5E1AAB2503588227F52937.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead__9__Sprite_Auto1.uasset'
+[2020.01.27-07.55.12:220][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead] ([1] browsable assets)...
+[2020.01.27-07.55.12:225][793]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/Animations/Sprites/Dead/Dead.Dead]
+[2020.01.27-07.55.12:225][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead]
+[2020.01.27-07.55.12:229][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead_Auto12E3B7EA14E9F7A3C014BAB9B8C42E3EE.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead_Auto1.uasset'
+[2020.01.27-07.55.12:230][793]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/Animations/Sprites/Dead/Dead_End] ([1] browsable assets)...
+[2020.01.27-07.55.12:234][793]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Character/Animations/Sprites/Dead/Dead_End.Dead_End]
+[2020.01.27-07.55.12:234][793]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/Animations/Sprites/Dead/Dead_End]
+[2020.01.27-07.55.12:240][793]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead_End_Auto1B7A94EBE44BD8C9673392EAF9A7DAA72.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Autosaves/Game/Character/Animations/Sprites/Dead/Dead_End_Auto1.uasset'
+[2020.01.27-07.55.12:241][793]LogFileHelpers: Auto-saving content packages took 0.210
+[2020.01.27-07.55.14:390][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.01.27-07.55.19:784][  9]LogSlate: Window 'Replace References?' being destroyed
+[2020.01.27-07.55.19:788][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-07.55.20:180][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.01.27-07.55.21:806][  9]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-07.55.21:834][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/2DSideScrollerCharacter" FILE="../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset" SILENT=true
+[2020.01.27-07.55.21:877][  9]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/2DSideScrollerCharacter37D2CD724B805795608856A048CC0BA7.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/2DSideScrollerCharacter.uasset'
+[2020.01.27-07.55.21:889][  9]LogSavePackage: Moving '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Saved/Dead_EndEED644974358DDDAC534678FA402970B.tmp' to '../../../../../../Users/pele-/Documents/Unreal Projects/A3/Content/Character/Animations/Flipbooks/Dead_End.uasset'
+[2020.01.27-07.55.21:910][  9]AssetCheck: New page: Asset Save: multiple assets
+[2020.01.27-07.55.21:910][  9]LogContentValidation: Display: Validating Blueprint /Game/Character/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.01.27-07.55.21:910][  9]LogContentValidation: Display: Validating ObjectRedirector /Game/Character/Animations/Flipbooks/Dead_End.Dead_End
+[2020.01.27-07.55.26:685][558]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Character/Animations/Sprites/Dead/Dead.Dead
+[2020.01.27-07.55.28:684][757]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.55.28:693][757]LogSlate: Window 'Dead' being destroyed
+[2020.01.27-07.55.28:701][757]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.55.28:701][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.01.27-07.55.32:623][205]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.27-07.55.32:647][205]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.025 s
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: 
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: Cannot remove redirection from /Game/Character/Animations/Flipbooks/Dead_End.Dead_End, it was not registered
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: Stack: 
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c3959231 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c35e5d5a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: [Callstack] 0x00007ffa175fd0f7 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.01.27-07.55.32:647][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b740ad07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b74362e6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9a522a31d UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9a51dde63 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9a5240eb0 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b29901fb UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b2b13178 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b2b0dd7f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b2b11a62 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b2957f30 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9b29580de UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c09525f2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c0958430 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c0931b84 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c09c1498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c09d9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c0959b95 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c083323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c08b9175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c08a413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff9c0898f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa2bfe4ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa2bfd242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa2bfe7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa2bfcec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa33027446 USER32.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa33026f62 USER32.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa2bfe8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff7dda36db0 UE4Editor.exe!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff7dda4c3ec UE4Editor.exe!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff7dda4c4ca UE4Editor.exe!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff7dda5ceae UE4Editor.exe!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ff7dda5fcbe UE4Editor.exe!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa33d47974 KERNEL32.DLL!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: [Callstack] 0x00007ffa345ba271 ntdll.dll!UnknownFunction []
+[2020.01.27-07.55.32:648][205]LogOutputDevice: Error: 
+[2020.01.27-07.55.32:659][205]LogStats:                SubmitErrorReport -  0.000 s
